@@ -383,7 +383,7 @@ streamlit run ui/dashboard.py
  
 ## License
  
-MIT License
+This project is licensed under the [MIT License](LICENSE).
  
 ---
  
